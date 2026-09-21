@@ -1,0 +1,102 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: #3c2d2d;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-1 {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  left: 47px;
+  top: 235px;
+  overflow: hidden;
+}
+.fikreab-mezgebu {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 89px;
+  width: 314px;
+  height: 66px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 1143px;
+  top: 87px;
+  width: 157px;
+  height: 59px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 947px;
+  top: 89px;
+  width: 123px;
+  height: 62px;
+}
+.homepage {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  position: absolute;
+  left: 677px;
+  top: 89px;
+  width: 270px;
+  height: 81px;
+}
+.budt-748-msis-industry-practicum {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 55px;
+  font-weight: 700;
+  position: absolute;
+  left: 102px;
+  top: 244px;
+  width: 1097px;
+  height: 124px;
+}
+.budt-748-is-a-practicum-course-where-students-work-in-a-team-with-a-real-company-to-solve-a-business-problem-using-technology-students-use-what-they-learned-in-the-msis-program-to-help-create-a-useful-solution-for-the-client {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 102px;
+  top: 441px;
+  width: 1080px;
+  height: 187px;
+}
+.semester-details-fall-2026-professor-dr-paul-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 102px;
+  top: 705px;
+  width: 1080px;
+  height: 259px;
+}
